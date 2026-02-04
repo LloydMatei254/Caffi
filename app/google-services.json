@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025522275415",
+    "project_id": "caffi-13ac9",
+    "storage_bucket": "caffi-13ac9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025522275415:android:4f2bd5c13ad5a497ba3f12",
+        "android_client_info": {
+          "package_name": "com.example.caffi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAg9GjGo-yCUW0ZeMhzQbPwiHXclRSqhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
